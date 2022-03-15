@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/componetiza-o-/static/css/main.e6c13ad2.css",
+    "main.js": "/componetiza-o-/static/js/main.7168ed07.js",
+    "static/js/787.fd76fbc1.chunk.js": "/componetiza-o-/static/js/787.fd76fbc1.chunk.js",
+    "index.html": "/componetiza-o-/index.html",
+    "main.e6c13ad2.css.map": "/componetiza-o-/static/css/main.e6c13ad2.css.map",
+    "main.7168ed07.js.map": "/componetiza-o-/static/js/main.7168ed07.js.map",
+    "787.fd76fbc1.chunk.js.map": "/componetiza-o-/static/js/787.fd76fbc1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.7168ed07.js"
+  ]
+}
